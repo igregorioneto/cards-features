@@ -14,5 +14,5 @@
 <img src="https://img.shields.io/static/v1?label=CardFeatures&message=Greg%C3%B3rioNeto&color=7159c1&style=for-the-badge&logo=ghost">
 
 <h1 align="center">
-  <img alt="card-features" title="#card-features" src="https://i.picasion.com/pic91/b77a291dd272dee86cccbf69d0e60d1a.gif" />
+  <img alt="card-features" title="#card-features" src="https://github.com/igregorioneto/cards-features/blob/main/assets/card-features.png" />
 </h1>
